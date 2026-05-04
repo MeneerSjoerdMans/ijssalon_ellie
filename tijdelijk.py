@@ -36,4 +36,4 @@ for el in reclame_tekst4:
        print(el.lower())
     if len(el) >= 5:
       print(el)
-#Kreeg ik niet voor elkaar zonder wat hulk van het internet. heeft me 30 minuten geduurd voor ik doorhad dat ik el(len) i.p.v. len(el) aan het proberen was.
+#Kreeg ik niet voor elkaar zonder wat hulp van het internet. heeft me 30 minuten geduurd voor ik doorhad dat ik el(len) i.p.v. len(el) aan het proberen was.
